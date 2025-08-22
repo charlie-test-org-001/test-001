@@ -10,3 +10,6 @@
 
 - Q: What do you call cheese that isn't yours?
   A: Nacho cheese.
+
+- Q: Why did the cheese cross the road?
+  A: To get to the other brie.

@@ -22,3 +22,6 @@
 
 - Q: What do you call a horse that lives next door?
   A: A neigh-bor.
+
+- Q: What do you call a horse that stays up late?
+  A: A night mare.

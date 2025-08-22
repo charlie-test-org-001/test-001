@@ -8,5 +8,5 @@
 - Q: How does the ocean say hello?
   A: It waves.
 
-- Q: Why don't scientists trust atoms?
-  A: Because they make up everything.
+- Q: Why did the bicycle fall over?
+  A: Because it was two-tired.

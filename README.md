@@ -25,3 +25,6 @@
 
 - Q: What do you call a horse that stays up late?
   A: A night mare.
+
+- Q: What do you call a horse with a cough?
+  A: A little hoarse.

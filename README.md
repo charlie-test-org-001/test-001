@@ -40,3 +40,6 @@
 
 - Q: What kind of horse likes to eat bread?
   A: A thoroughbred.
+
+- Q: What's a horse's favorite state?
+  A: Neigh-braska.

@@ -37,3 +37,6 @@
 
 - Q: Why was the horse so relaxed?
   A: It lived in a stable environment.
+
+- Q: What kind of horse likes to eat bread?
+  A: A thoroughbred.

@@ -61,3 +61,6 @@
 
 - Q: Why did the horse apply for a job?
   A: It wanted a stable income.
+
+- Q: Why was the pony sent to bed early?
+  A: It kept horsing around.

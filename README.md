@@ -28,3 +28,12 @@
 
 - Q: What do you call a horse with a cough?
   A: A little hoarse.
+
+- Q: What did the horse say after it tripped?
+  A: I've fallen and I can't giddy-up.
+
+- Q: What street do horses love to live on?
+  A: Mane Street.
+
+- Q: Why was the horse so relaxed?
+  A: It lived in a stable environment.

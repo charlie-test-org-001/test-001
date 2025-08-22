@@ -19,3 +19,6 @@
 
 - Q: What cheese do you use to disguise a small horse?
   A: Mascarpone.
+
+- Q: What do you call a horse that lives next door?
+  A: A neigh-bor.

@@ -8,5 +8,5 @@
 - Q: How does the ocean say hello?
   A: It waves.
 
-- Q: Why did the bicycle fall over?
-  A: Because it was two-tired.
+- Q: What do you call cheese that isn't yours?
+  A: Nacho cheese.

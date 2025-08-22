@@ -16,3 +16,6 @@
 
 - Q: What cheese is made backward?
   A: Edam.
+
+- Q: What cheese do you use to disguise a small horse?
+  A: Mascarpone.

@@ -52,3 +52,9 @@
 
 - Q: Why do horses make good dancers?
   A: They have great mane moves.
+
+- Q: How do horses greet each other?
+  A: Hay there!
+
+- Q: Why did the horse sit in the shade?
+  A: It didn't want to be a hot trotter.

@@ -58,3 +58,6 @@
 
 - Q: Why did the horse sit in the shade?
   A: It didn't want to be a hot trotter.
+
+- Q: Why did the horse apply for a job?
+  A: It wanted a stable income.

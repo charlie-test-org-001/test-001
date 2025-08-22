@@ -43,3 +43,12 @@
 
 - Q: What's a horse's favorite state?
   A: Neigh-braska.
+
+- Q: Where do horses go when they feel sick?
+  A: The horsepital.
+
+- Q: What do you call a horse who always says no?
+  A: A neigh-sayer.
+
+- Q: Why do horses make good dancers?
+  A: They have great mane moves.
